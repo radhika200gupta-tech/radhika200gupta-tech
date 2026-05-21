@@ -54,7 +54,6 @@ uCampus++ aims to improve communication, accessibility, and student engagement t
 
 ## 📌 Goals for 2026
 - Contribute actively to Open Source
-- Participate in SSoC
 - Build impactful real-world projects
 - Strengthen DSA & Development Skills
 - Learn Full Stack Development
