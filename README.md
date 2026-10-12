@@ -15,6 +15,9 @@ I enjoy building practical and user-friendly projects that solve real-world prob
 - C Programming
 - Python
 - Git & GitHub
+- SQL
+- Java
+- OOPS
 
 ## 📚 Currently Exploring
 - Java
